@@ -1,3 +1,3 @@
 # PythonProject
 
-Web Scrapper = Scrapping data from web using beautifulscope and saving the data in excel file
+Web Scraper = Scraping data using Beautiful Soup and converting it into dataframe and saving the final output as excel file.
